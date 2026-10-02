@@ -1,0 +1,6 @@
+Dataset/
+models/
+.ipynb_checkpoints/
+.DS_Store
+*.h5
+CNN_backup.ipynb
